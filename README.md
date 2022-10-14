@@ -1,4 +1,12 @@
-# Project Template: React/Rails API
+# Real Estate Project
+
+## By Bryan Bosire
+
+### Landing Page
+![lANDING PAGE](./src/assests/LandingPage.png)
+
+### Entity Relationship Diagram
+![ERD](./src/assests/ERD.png)
 
 ## Description
 
