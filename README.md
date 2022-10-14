@@ -8,6 +8,12 @@
 ### Entity Relationship Diagram
 ![ERD](./client/src/assets/ERD.png)
 
+### Live Link
+
+---
+
+\- Click this link to see the live website [RealEstate](https://real-estate-projec.herokuapp.com/)
+
 ## Description
 
 This project is scaffolded so that you can build a React frontend and Rails
@@ -242,3 +248,11 @@ For additional support, check out these guides on Heroku:
 [postgres downloads page]: https://postgresapp.com/downloads.html
 [heroku rails deploying guide]: https://devcenter.heroku.com/articles/getting-started-with-rails6
 [troubleshooting guide on heroku]: https://devcenter.heroku.com/articles/getting-started-with-rails6#troubleshooting
+
+## License
+
+---
+
+MIT License
+
+Copyright (c) [2022] [Bryan Bosire]
