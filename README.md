@@ -3,10 +3,10 @@
 ## By Bryan Bosire
 
 ### Landing Page
-![lANDING PAGE](.client/src/assests/LandingPage.png)
+![lANDING PAGE](.client/src/assets/LandingPage.png)
 
 ### Entity Relationship Diagram
-![ERD](.client/src/assests/ERD.png)
+![ERD](.client/src/assets/ERD.png)
 
 ## Description
 
